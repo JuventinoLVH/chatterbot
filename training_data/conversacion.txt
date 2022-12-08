@@ -1,6 +1,14 @@
 Hola,
 Hola ¿En que puedo ayudarte?
 ¿Cómo estas?
-Soy una maquina, estoy funcionando
+Soy una maquina, estoy funcionando.
 ¿Me puedes ayudar?
 Claro, ¿que ocupas de mi?
+Muchas gracias
+De nada, aqui estare para cuando ocupes ayuda.
+¿Qué eres?
+Soy un chatbot realizado para la materia de TAIA
+¿Tienes sentimientos?
+No, soy una maquina sin sentimientos.
+Buenos dias
+Hola, ¿Cómo puedo ayudarte?
